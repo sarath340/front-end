@@ -1,4 +1,4 @@
-** {
+* {
     margin: 0;
     padding:0;
     box-sizing: border-box;
@@ -907,7 +907,7 @@ footer .copyright {
     footer .copyright {
         text-align: start;
     }
-    /single product/
+    /*single product*/
     #prodetails {
         display: flex;
         flex-direction: column;
@@ -938,7 +938,7 @@ footer .copyright {
         width: 100%;
     }
 
-    /About Page/
+    /*About Page*/
     #about-head {
        flex-direction: column;
     }
@@ -952,3 +952,5 @@ footer .copyright {
     #about-app .video {
         width: 100%;
     }
+
+}
